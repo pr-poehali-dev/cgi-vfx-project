@@ -62,8 +62,8 @@ const Index = () => {
               <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-primary to-accent flex items-center justify-center">
                 <Icon name="Sparkles" className="text-white" size={18} />
               </div>
-              <span className="font-bold text-lg">LuminaGraphix</span>
-              <Badge className="ml-2 bg-primary/10 text-primary text-xs">Professional</Badge>
+              <span className="font-bold text-lg">КиноГрафикс CGI</span>
+              <Badge className="ml-2 bg-primary/10 text-primary text-xs">ЭффектМастер VFX</Badge>
             </div>
             <div className="flex items-center gap-1">
               <Button variant="ghost" size="sm">
